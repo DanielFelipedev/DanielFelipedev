@@ -1,5 +1,5 @@
 # DANIEL FELIPE
-### Cursando Análise e desenvolvimento de sistemas.<br>
+### Desenvolvedor Backend.<br>
 ## Contato
 [![Instagram](https://img.shields.io/badge/instagram-007ACC?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/daniel_felipefe/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-felipe-andrade-da-silva-766b202a2/)
@@ -20,3 +20,4 @@
 ![Python](https://img.shields.io/badge/python-007ACC?style=for-the-badge&logo=python&logoColor=black)
 
 ## Apaixonado por Tecnologia, educação e por mudar a vida das Pessoas através da Programação
+
